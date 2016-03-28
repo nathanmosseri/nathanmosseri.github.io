@@ -2,5 +2,7 @@
 
 font-family: 'oswald', sans-serif;
 font-size: 16px;
-color: red;
+color: blue;
+border-color: black;
+border-bottom: 1px solid;
 
