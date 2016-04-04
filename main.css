@@ -34,7 +34,8 @@ height: 100px;
   
  .homePage {
    
-   border-color: 3px black;
+  border: 3px,3px,3px3px;
+   border-color: black;
    background-color: blue;
    height:100opx;
    width:1000px;
