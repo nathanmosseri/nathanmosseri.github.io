@@ -32,6 +32,10 @@ height: 100px;
     height: 100%;
   }
   
- 
+ .homePage {
+   
+   border-color: 3px black;
+   background-color: blue;
+ }
   
 
