@@ -22,13 +22,13 @@ height: 100px;
   table {
     
     width: 100%;
+    display: inline-block;
   }
   
   td {
     
     width: 20%;
     height: 100%;
-    display:center;
   }
   
  
