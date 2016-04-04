@@ -22,7 +22,8 @@ height: 100px;
   table {
     
     width: 100%;
-    display: inline-block;
+    height: 100%;
+   
   }
   
   td {
