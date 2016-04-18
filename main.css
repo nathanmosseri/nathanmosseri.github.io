@@ -51,3 +51,7 @@ a:visited {
   color:blue;
 }
   
+  .composite:visited {
+    
+    color:red;
+  }
