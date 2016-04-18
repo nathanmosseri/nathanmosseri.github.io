@@ -33,19 +33,21 @@ height: 100px;
   }
   
 
-a:hover {
+.webname:hover {
   
   font-size:35px;
 }
 
-a:active {
+.webname:active {
   font-size:35px;
 }
   
-  a:link {
+  .webname:link {
     color: red;
   }
 
-
+.webname:visited { 
   
+  color:blue;
+}
   
